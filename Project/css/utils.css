@@ -1,0 +1,15 @@
+.flex-all-center{            /* this is a property of a container so need to add in the  container only */
+    display: flex;           /*(ex-div,footer etc). This will make the */
+    justify-content:center;  /* content horizontally and vertically center*/
+    align-items:center;
+    
+}
+.btn{
+    padding: 4px 9px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    
+}

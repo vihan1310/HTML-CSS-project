@@ -1,0 +1,25 @@
+@media screen and (max-Width :1350px){
+    
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        margin-top: 12px;
+    }
+
+    .search input{
+        margin: 0 15px 0 15px;
+    }
+    nav ul{
+        height: 25px;
+    }
+    .slider{
+       width: 95vw;
+       height: 50vh;
+    }
+    .cart img{
+        width: 140px;
+        height: 148px;
+    }
+    
+}
